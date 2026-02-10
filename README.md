@@ -134,7 +134,7 @@ Age-Classification-Volcanic-Rocks/
 │   ├── 02_Data_Preparation.ipynb
 │   └── 03_Model_Training_and_Evaluation.ipynb
 │
-├── reports/
+└── reports/
     ├── Summary_Report.pdf
     └── Data_Visualization_Report.pdf
 
