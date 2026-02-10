@@ -137,8 +137,7 @@ Age-Classification-Volcanic-Rocks/
 ├── reports/
 │   ├── Summary_Report.pdf
 │   └── Data_Visualization_Report.pdf
-│
-└── requirements.txt
+
 ```
 
 ---
