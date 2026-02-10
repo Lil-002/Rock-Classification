@@ -175,7 +175,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 ```
 
-5. Ensure the dataset file is placed in the referenced `/data` directory or Google Drive path.
+5. Ensure the dataset file (Ali_New_Spreadsheet.xlsx) is placed in the referenced `/data` directory or Google Drive path.
 6. Execute notebooks in sequence:
 
 * `01_Data_Cleaning_and_EDA`
@@ -203,7 +203,7 @@ All visualisations, processed datasets, and model results will be generated auto
 
 ## Author
 
-[Your Name]
+[Ethan Ong]
 AI / Data Science Portfolio Project
 
 
